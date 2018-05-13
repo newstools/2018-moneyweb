@@ -1,0 +1,56 @@
+Please could you advise me regarding investing R4 million? I currently have no investments and need to make this money grow to secure a good future. I am 40 and my income per month is R50 000. I have two children aged ten and 12 and want to plan for their future education as well.  .profile-top a {
+            text-decoration: none !important;
+        }
+
+        .profilequote {
+            position: relative;
+            background-color: #f3f3f3;
+            border-top: 2px solid #c9c9c9;
+            color: #666;
+            padding: 15px 15px 10px 15px;
+            border-radius: 10px;
+        }
+
+        .profilequote:after, .profilequote:before {
+            bottom: 100%;
+            left: 100px;
+            border: solid transparent;
+            content: " ";
+            height: 0;
+            width: 0;
+            position: absolute;
+            pointer-events: none;
+        }
+
+        .profilequote:after {
+            border-color: rgba(0, 0, 0, 0);
+            border-bottom-color: #;
+            border-width: 11px;
+            margin-top: -11px;
+        }
+
+        .profilequote:before {
+            border-color: rgba(201, 201, 201, 0);
+            border-bottom-color: #c9c9c9;
+            border-width: 12px;
+            margin-top: -12px;
+        }
+
+        .profileimg {
+            border-radius: 50%;
+            width: 75px;
+            height: 75px;
+            margin: 0 auto;
+            overflow: hidden;
+            border: 1px solid #eee;
+            margin-top: -10px;
+        }
+
+        .profileimg img {
+            opacity: 1.0;
+            width: auto;
+        }
+
+        .logoimg img {
+            max-height: 75px;
+        }  I often sympathise with a parent that needs to prepare for a child’s tertiary education. As a parent that has put two of my own children through university and who is in the process of putting the last one through I understand the effect this has on one’s cash flow. It is definitely not an easy ride and the sooner you prepare for the costs associated with tertiary education, the better. Most people think they need to save exactly what it will cost to put a child through university. If the biggest part of the cash flow problem can be covered, you have already succeeded immensely. Not knowing how the rest of your portfolio looks (fixed assets etc) I am making one or two assumptions:  Let’s first focus on the capital you will require for both children to put them through their tertiary education: Ten-year old child The youngest child will need R672 350 at age 18 to cover their three-year costs. We’ll assume the money will be parked in a money market account over the course of the three years. An additional R207 200 will be needed at age 18 to buy a vehicle. This adds up to roughly R880 000 needed at the beginning of the child’s university years. In present value terms: invest R425 500 as a lump sum now, from the R4 000 000 available. This is assuming the market will give you a 9.50% return after costs over eight years. 12-year old child You will need R598 000 at age 18 for this child to cover study fees over three years. We’ll also assume the money will be parked in a money market account over the course of three years. An additional R184 500 will be needed at age 18 to a buy a vehicle. This adds up to roughly R782 800 needed at the beginning of the child’s university years. In present value terms: invest R454 000 as a lump sum now, from the R4 000 000 available. The same assumptions used for the ten-year old child apply. Short conclusion You will need to invest R880 000 more or less in present value terms to achieve your goals as set out above. The rest of the R3 120 000 that remains should be structured in a way to achieve your retirement or financial goals. Remember to set up an emergency fund to cover unexpected expenses. Make use of your yearly optimal retirement contributions. In your case this would be R165 000 per annum to get the full tax benefit. I would highly recommend that you speak to a certified financial planner® to do your holistic financial planning with you, and look at different investment vehicles.  
