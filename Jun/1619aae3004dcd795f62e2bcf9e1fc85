@@ -1,0 +1,56 @@
+If you want to buy a house for R1.3 million and you have savings amounting to R720 000. Which option is best when applying for home loan? 1. Take 100% bond and pay the R720 000 as additional payments.  2. Pay the R720 000 as deposit and request a loan for the remainder of the purchase amount? .profile-top a {
+            text-decoration: none !important;
+        }
+
+        .profilequote {
+            position: relative;
+            background-color: #f3f3f3;
+            border-top: 2px solid #c9c9c9;
+            color: #666;
+            padding: 15px 15px 10px 15px;
+            border-radius: 10px;
+        }
+
+        .profilequote:after, .profilequote:before {
+            bottom: 100%;
+            left: 100px;
+            border: solid transparent;
+            content: " ";
+            height: 0;
+            width: 0;
+            position: absolute;
+            pointer-events: none;
+        }
+
+        .profilequote:after {
+            border-color: rgba(0, 0, 0, 0);
+            border-bottom-color: #;
+            border-width: 11px;
+            margin-top: -11px;
+        }
+
+        .profilequote:before {
+            border-color: rgba(201, 201, 201, 0);
+            border-bottom-color: #c9c9c9;
+            border-width: 12px;
+            margin-top: -12px;
+        }
+
+        .profileimg {
+            border-radius: 50%;
+            width: 75px;
+            height: 75px;
+            margin: 0 auto;
+            overflow: hidden;
+            border: 1px solid #eee;
+            margin-top: -10px;
+        }
+
+        .profileimg img {
+            opacity: 1.0;
+            width: auto;
+        }
+
+        .logoimg img {
+            max-height: 75px;
+        }  As with all matters related to investment there is no hard and fast rule or single answer. Every individual’s situation is unique and various factors must be considered. To provide the best suggestion, the following is assumed because there are too many variables to give a direct answer without proper understanding of the client’s full financial situation, goals and objectives of the property: Important issues to consider: Although interest rates have been lowered in the past year, investing additional money into a bond immediately delivers a return of the interest rate charged – 10% in this instance – which is well above market returns achieved by investing in other assets classes like local equities, due to the global volatility of recent months. Investing the entire R720 000 into a bond is a form of tax-free saving. Returns earned in the form of interest through money invested in any interest-bearing account will be subject to income tax. Paying extra money into a bond has a lower risk factor than many other investment options. Although property values in SA have not grown significantly and in some areas not at all for a few years (with the exception of the Western Cape), the lower risk may appeal to risk-averse investors who are using the home to live in as opposed to using it as an investment property. Investing the lump sum will beat inflation, as the interest rate earned is currently well above inflation. The additional payment into a bond does not attract any investment fees. If a flexi or so-called ‘access’ bond is registered, it will allow for easy access to the funds, making this a very liquid investment should the need arise to use part of those funds for investment or emergency purposes. Disadvantages could be a lack of diversification, should this investment make up a significant portion of the investor’s overall portfolio. Considering the rate of return based on the interest rate, it’s certainly a great option to consider. It is always advisable to consult a qualified, professional financial planner for any investment decision, as every investment has numerous variables, risk factors and advantages to consider.  
