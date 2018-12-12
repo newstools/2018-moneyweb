@@ -1,0 +1,57 @@
+I’m 75 and my pension resides on a Lisp (linked investment service provider) platform, in the form of a living annuity. I require growth of 5-8% net of costs, for my pension to sufficiently last. If I could, I would prefer to place the entire amount with a bank in order to earn the required interest. How can this be achieved, given the current regulatory requirements? .profilequote-name {
+                    display: block;
+                    float: left;
+                }
+
+                .profile-left a, .profilequote-name a {
+                    text-decoration: none !important;
+                }
+
+                .profilequote-left {
+                    position: relative;
+                    background: #f3f3f3;
+                    border-left: 2px solid #c9c9c9;
+                    color: #666;
+                    padding: 15px 15px 10px 15px;
+                    border-radius: 10px;
+                }
+
+                .profilequote-left:after, .profilequote-left:before {
+                    right: 100%;
+                    top: 30px;
+                    border: solid transparent;
+                    content: " ";
+                    height: 0;
+                    width: 0;
+                    position: absolute;
+                    pointer-events: none;
+                }
+
+                .profilequote-left:after {
+                    border-color: rgba(0, 0, 0, 0);
+                    border-right-color: #;
+                    border-width: 11px;
+                    margin-top: -11px;
+                }
+
+                .profilequote-left:before {
+                    border-color: rgba(201, 201, 201, 0);
+                    border-right-color: #c9c9c9;
+                    border-width: 12px;
+                    margin-top: -12px;
+                }
+
+                .profileimg {
+                    border-radius: 50%;
+                    width: 75px;
+                    height: 75px;
+                    margin: 0 auto;
+                    overflow: hidden;
+                    border: 1px solid #eee;
+                    margin-top: -10px;
+                }
+
+                .profileimg img {
+                    opacity: 1.0;
+                    width: auto;
+                }  Please note that this is a general response that it should be further tailored to meet your needs, taking into account details that have not been provided. We have answered the question in two sections: Administration of retirement fund assets Under current rules, the proceeds of pension funds may only be administered by companies licensed to do so in terms of the Pension Funds Act. Banks are only eligible to manage retirement funds if they have a life licence as well as a banking licence, and any assets would have to be managed under retirement fund rules, not banking legislation. This means, for example, that it would not be possible for you to ask a bank to manage the proceeds of the living annuity in the same way that it would manage a fixed deposit account. Requirement for 5-8% growth Most Lisp platforms typically include a wide range of underlying investment unit trust fund choices, including money market funds and other interest-bearing funds (including short- and variable-term interest-bearing funds). It is therefore likely that a range of fixed interest investment unit trusts is available on your present Lisp and there might be no need to leave (exit) it. According to Profile Media, as of December 10, 2018, the average annual returns of these categories over the last 12-month period were 7.18%, 8.05% and 8.58% respectively. However, please note the following: A second is to consider transferring the proceeds of your living annuity to a ‘guaranteed annuity fund’ – a financial product available from a life assurance company. Under the terms of this product, the life assurance company commits to paying you a specified monthly pension until death. This means you will have an income (which could be less than the amount you currently live on) for as long as you live, without the need to worry that the underlying investment will be depleted. The guaranteed annuity can be on a single or joint life basis and different options (such as level or increasing income) can be built into the contract. Once the terms have been set, however, they cannot be changed. The potential drawback is that the capital dies with you and no money will pass on to your heirs. It is therefore very important to look at what is required for both you and your heirs.  
